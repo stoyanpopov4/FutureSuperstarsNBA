@@ -1,0 +1,7 @@
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\bin\Debug\FutureSuperstarsNBA.exe.config
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\bin\Debug\FutureSuperstarsNBA.exe
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\bin\Debug\FutureSuperstarsNBA.pdb
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\obj\Debug\FutureSuperstarsNBA.csprojResolveAssemblyReference.cache
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\obj\Debug\FutureSuperstarsNBA.csproj.CoreCompileInputs.cache
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\obj\Debug\FutureSuperstarsNBA.exe
+C:\Users\stoqn\source\repos\FutureSuperstarsNBA\FutureSuperstarsNBA\obj\Debug\FutureSuperstarsNBA.pdb

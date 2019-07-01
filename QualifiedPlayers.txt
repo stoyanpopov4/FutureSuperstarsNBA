@@ -1,0 +1,3 @@
+Name,Rating
+Luka Doncic, 87
+Trae Young, 84
